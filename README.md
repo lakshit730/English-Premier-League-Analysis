@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sn 
+import seaborn as sn
 
 football=pd.read_csv('https://andybek.com/pandas-soccer')
 football.head(10)
